@@ -94,7 +94,7 @@ describe("tootyFruity", () => {
 // b) Create the function that makes the test pass.
 // PSEUDOCODE:
 // create a function named tootyFruity
-//insert a parameter of array and letter
+// insert a parameter of array and letter
 // Filter through the array and see if each value has a letter that we need
 // Return each new value in the new array
 
@@ -155,7 +155,7 @@ const fullHouse = (arr) => {
     return false;
   }
 // console.log(fullHouse(hand1));
-console.log(fullHouse(hand2));
+// console.log(fullHouse(hand2));
 // console.log(fullHouse(hand3));
 
 // Output:
